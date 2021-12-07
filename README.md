@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI Project
 Theme Park Dashboard
 This Project uses Power BI to generate a dashboard.
 Introduction
