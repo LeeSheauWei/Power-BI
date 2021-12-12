@@ -1,4 +1,4 @@
-# Power-BI Project - Theme Park Dashboard
+# Power-BI Project - Top 20 Most Popular Theme Parks Dashboard
 
 This Project uses Power BI to generate a dashboard.
 
